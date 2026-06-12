@@ -1,5 +1,6 @@
 # CS
 Practicing C#
+
 Za prvu vjezbu:
 Kreirati konzolnu aplikaciju (Solution + Project) — HelloWorld primjer
 Koristiti ispravne tipove varijabli i razumjeti razliku između cjelobrojnog i decimalnog dijeljenja
